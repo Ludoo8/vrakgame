@@ -1,0 +1,14 @@
+canvas {
+    border: 1px solid black;
+    display: block;
+    margin: 0 auto;
+    background-color: white;
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+body{
+    background-color: rgb(20, 19, 41);
+}
